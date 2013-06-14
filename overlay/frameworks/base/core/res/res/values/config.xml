@@ -79,4 +79,8 @@
     <string name="roamingText0">Digital Roaming</string>
     <string name="roamingText1">Sprint</string>
     <string name="roamingText2">Digital Roaming</string>
+    
+    <!-- Component name of the default wallpaper. This will be ImageWallpaper if not specified -->
+    <string name="default_wallpaper_component" translatable="false">@null</string>
+    
 </resources>
